@@ -1,0 +1,14 @@
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\UnitTests.dll
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\21211110_Proyecto2_TBD2.exe
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\21211110_Proyecto2_TBD2.pdb
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\UnitTests\obj\Debug\UnitTests.dll
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\21211110_Proyecto2_TBD2.exe
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\UnitTests\bin\Debug\21211110_Proyecto2_TBD2.pdb
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,16 @@
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\bin\Debug\21211110_Proyecto2_TBD2.exe.config
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\bin\Debug\21211110_Proyecto2_TBD2.exe
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\bin\Debug\21211110_Proyecto2_TBD2.pdb
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\_21211110_Proyecto2_TBD2.Properties.Resources.resources
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.csproj.GenerateResource.Cache
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.exe
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.pdb
+c:\users\slyther\documents\visual studio 2013\Projects\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\bin\Debug\21211110_Proyecto2_TBD2.exe.config
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.exe
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.pdb
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\bin\Debug\21211110_Proyecto2_TBD2.exe
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\bin\Debug\21211110_Proyecto2_TBD2.pdb
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\_21211110_Proyecto2_TBD2.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\21211110_Proyecto2_TBD2\21211110_Proyecto2_TBD2\obj\Debug\21211110_Proyecto2_TBD2.csprojResolveAssemblyReference.cache
